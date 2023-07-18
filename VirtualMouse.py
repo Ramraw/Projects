@@ -1,4 +1,5 @@
-import cv2 
+#importing required libraries
+ import cv2 
  import mediapipe as mp 
  import pyautogui 
  cap = cv2.VideoCapture(0) 
